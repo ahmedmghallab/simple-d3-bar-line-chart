@@ -1,0 +1,26 @@
+{
+  "name": "simple-d3-bar-line-chart",
+  "version": "1.0.0",
+  "description": "Simple D3 Bar Line Chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmadghallab/simple-d3-bar-line-chart.git"
+  },
+  "keywords": [
+    "d3",
+    "bar",
+    "chart",
+    "line",
+    "chart"
+  ],
+  "author": "Ahmad Ghallab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmadghallab/simple-d3-bar-line-chart/issues"
+  },
+  "homepage": "https://github.com/Ahmadghallab/simple-d3-bar-line-chart#readme"
+}
